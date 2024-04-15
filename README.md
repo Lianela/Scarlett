@@ -11,3 +11,5 @@ En este caso se llevaría a una complejidad más grande y un reto más fuerte, p
 Algo que clame la privacidad pero al mismo tiempo la libertad de expresión.
 Crear un navegador de este calibre también requerirá de Tor, es decir, crear un navegador capaz de poder fusionar la potencia de Blink, privacidad de Gecko y libertad de Tor.
 Scarlett está en fase Alpha, seguirá así hasta que primero sea capaz de mantener a Blink y Gecko en su núcleo por si sola y sea capaz de permitir al usuario elegir cuál desea. 
+
+Este proyecto fue cancelado por falta de tiempo, probablemente sea creado nuevamente desde 0 utilizando y sentando una nueva base debido a que a como quedó, no sentí que sea lo mejor.
