@@ -1,4 +1,7 @@
-Scarlett es un proyecto de navegador web que busca incorporar la inteligencia artificial (IA) para mejorar la experiencia del usuario. El objetivo principal es hacer que el navegador sea más eficiente, personalizable y útil en general, ofreciendo funciones avanzadas como búsqueda inteligente, respuestas rápidas y adaptabilidad.
+Este proyecto fue abandonado por mi, debido a que realmente no tenía el ánimo de completarlo y solo encontraba cada vez más y más errores, además de que no sentía que estaba quedando a como me hubiera gustado y que realmente llegó un punto en donde hasta poseía 10 carpetas distintas siendo casi idénticas pero teniendo diferencias cuestionables.
+He pensado retomar el Proyecto Scarlett con las bases principales, las cuáles son enfoques de seguridad, libertad y privacidad, pero creandolo con un flujo muchísimo más limpio, ordenado y claro sobre que es lo que quiero para el proyecto realmente.
+
+Scarlett fue un proyecto de navegador web que busca incorporar la inteligencia artificial (IA) para mejorar la experiencia del usuario. El objetivo principal es hacer que el navegador sea más eficiente, personalizable y útil en general, ofreciendo funciones avanzadas como búsqueda inteligente, respuestas rápidas y adaptabilidad.
 
 Esta está siendo construida a base y con la ayuda de Chat GPT 4 de OpenAI.
 
@@ -11,5 +14,3 @@ En este caso se llevaría a una complejidad más grande y un reto más fuerte, p
 Algo que clame la privacidad pero al mismo tiempo la libertad de expresión.
 Crear un navegador de este calibre también requerirá de Tor, es decir, crear un navegador capaz de poder fusionar la potencia de Blink, privacidad de Gecko y libertad de Tor.
 Scarlett está en fase Alpha, seguirá así hasta que primero sea capaz de mantener a Blink y Gecko en su núcleo por si sola y sea capaz de permitir al usuario elegir cuál desea. 
-
-Este proyecto fue cancelado por falta de tiempo, probablemente sea creado nuevamente desde 0 utilizando y sentando una nueva base debido a que a como quedó, no sentí que sea lo mejor.
